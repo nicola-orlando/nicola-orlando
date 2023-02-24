@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **nicola-orlando/nicola-orlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nicolaorlandowork_at_gmail.com
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: baguettes are for one day stand, eat them fast
+
+### Stats
+
+Don't mind pre-2023, I was mostly elsewhere 😄
+
+![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicola-orlando&theme=tokyonight&show_icons=true)
+
+### Top coding languaged
+
+Hiding all my old C code 😈 😵 💀, can't make this chart in log scale
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicola-orlando&hide=C&theme=tokyonight)](https://github.com/nicola-orlando/nicola-orlando)
