@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: baguettes are for one day stand, eat them fast
 
-### Stats
+### Stats without p-values
 
 Don't mind pre-2023, I was mostly elsewhere 😄
 
 ![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicola-orlando&theme=tokyonight&show_icons=true)
 
-### Top coding languaged
+### Top coding languages
 
 Hiding all my old C code 😈 😵 💀, can't make this chart in log scale
 
